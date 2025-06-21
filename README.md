@@ -1,18 +1,13 @@
-![Banner](https://github.com/Kurra-Srinivas/linkedin-post-generator/raw/main/banner.png)
-
 # 🚀 AI-Powered Recruiter LinkedIn Post Generator
 
 **Generate professional, engaging, and enhanced LinkedIn posts from any job description in seconds.**  
 This project uses the power of **Groq LLM + Langchain + Streamlit** to help recruiters attract top talent effortlessly.
-
 ---
-## 🌟 Live Demo
-
-🧪 Try it live: [Streamlit App](https://your-deployment-link.streamlit.app)  
+## 🌟 Live Demo  
+🚀 **Try it out here** 👉 [Recruiter LinkedIn Post Generator](https://recruiter-linkedin-post-generator-jodfpegx9bds96w5pr4yex.streamlit.app/)
 
 ---
 ## ✨ Features
-
 - 📝 **Paste a Job Description**, Get a Polished LinkedIn Post
 - 🗣️ **Select Output Tone**: Professional, Friendly, Excited, or Urgent
 - 🌍 **Multi-Language Output**: English, Hinglish, Hindi, French
@@ -22,11 +17,6 @@ This project uses the power of **Groq LLM + Langchain + Streamlit** to help recr
 - 📄 **Download Post as `.txt`**
 - 🔢 **Word & Character Counter**
 - 💡 Fully built with **Groq API**, **LangChain**, **Streamlit**, and **Dotenv**
-
----
-## 📸 Screenshot
-
-![App Screenshot](https://github.com/Kurra-Srinivas/linkedin-post-generator/blob/main/app%20screenshot.png)
 
 ---
 ## 🧠 How It Works
